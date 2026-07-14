@@ -1,16 +1,15 @@
-## Hi there 👋
+✦ Hi, I’m Aleksey Spirin / Asteron Kodosvet
 
-<!--
-**DarlesGames/DarlesGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Developer · Game Designer · Founder of Darles Games
 
-Here are some ideas to get you started:
+Video game developer and game designer creating browser games and interactive projects. Founder of the independent studio Darles Games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔮 Links
+[Darles Games Website](https://darlesgames.github.io/)
+[Projects and Case Studies](https://darlesgames.github.io/portfolio/)
+[CV](https://darlesgames.github.io/cv/)
+📡 Contacts
+[Telegram](https://telegram.me/ProgrammerLeks)
+[VK Community](https://vk.ru/darlesgames)
+[YouTube](https://www.youtube.com/@programmerleks8229)
+[Darlesgames@yandex.ru](mailto:Darlesgames@yandex.ru)

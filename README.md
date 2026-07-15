@@ -4,7 +4,7 @@
 
 <p> <sub> <i>Game Developer · Game Designer · Founder of Darles Games</i> </sub> </p>
 
-<p> Video game developer and game designer creating browser games and interactive projects.<br> Founder of the independent studio <strong>Darles Games</strong>. </p>
+<p> Video game developer and game designer creating videogames and interactive projects.<br> Founder of the independent studio <strong>Darles Games</strong>. </p>
 
 <hr>
 

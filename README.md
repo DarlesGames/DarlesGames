@@ -12,7 +12,7 @@
 
 <a href="https://darlesgames.github.io/">Darles Games Website</a><br>
 <a href="https://darlesgames.github.io/projects/">Projects and Case Studies</a><br>
-<a href="https://darlesgames.github.io/CV/">CV</a>
+<a href="https://darlesgames.github.io/cv/">CV</a>
 
 <hr>
 
